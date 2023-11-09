@@ -1,4 +1,4 @@
-<div class="mobile-header mobile-header-4 d-block d-lg-none ">
+<div class="mobile-header mobile-header-4 d-block  d-lg-none ">
     <div class="container-fluid">
         <div class="col-12">
             <div class="mobile-header-elements">
@@ -13,7 +13,7 @@
     </div>
 </div>
 
-<div class="mobile-sidebar d-block d-lg-none">
+<div class="mobile-sidebar d-block  d-lg-none">
     <div class="menu-logo">
         <a href="#"><img src="assets/img/new/logo_black.png" alt=""></a>
     </div>
